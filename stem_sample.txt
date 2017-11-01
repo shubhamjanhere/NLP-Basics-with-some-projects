@@ -1,0 +1,3 @@
+Hello! This is a the text inside stem sample which is being used for checking the unknown applications of the stemming library.
+The entire text doccument contains some newlines and special characters.
+Ram said to Ravan - "What are you doing?".
